@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2739a56-a23f-40d0-9705-fc57c9694f64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/ArcDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/BresenhamArcDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/BresenhamLineDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/DDALineDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/DrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/GraphicsLineDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/GraphicsPixelDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/LineDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/MainForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/PixelDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/RealPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/ScreenConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/ScreenPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/kg2022/borodin/WuLineDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2-3.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HRQuA6XukHDewMsFcernx9uprN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Дмитрий/IdeaProjects/university_homeworks-main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.vsu.cs.kg2022.borodin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ru.vsu.cs.kg2022.borodin.Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.cs.kg2022.borodin.Main" />
+      <module name="task2-3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2739a56-a23f-40d0-9705-fc57c9694f64" name="Changes" comment="" />
+      <created>1668245638553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668245638553</updated>
+      <workItem from="1668245640093" duration="4027000" />
+      <workItem from="1668254865570" duration="620000" />
+      <workItem from="1668296014049" duration="6186000" />
+      <workItem from="1668332195290" duration="13607000" />
+      <workItem from="1668351209392" duration="26732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
